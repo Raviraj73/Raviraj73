@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hello! I’m Ravi Raj, an enthusiastic web developer and a dedicated student with a passion for technology and innovation. Currently pursuing a B.Tech in Computer Science and Engineering, I love merging creativity with coding to create user-friendly applications.
 
-I’m eager to connect, learn, and grow in the dynamic field of web development!
+ I’m eager to connect, learn, and grow in the dynamic field of web development!
 
-🔭 Currently working on: Developing app and AI-based solutions to tackle real-world challenges.
-🌱 Learning: C,C++, Data Structures and Algorithms, , HTML,CSS and exploring various technologies.
+🔭 Currently working on: Developing app and AI-based solutions to tackle real-world challenges.<br>
+🌱 Learning: C,C++, Data Structures and Algorithms, , HTML,CSS and exploring various technologies.<br>
 🤝 Open to collaborating on: Ongoing projects and participating in hackathons.
 
 
